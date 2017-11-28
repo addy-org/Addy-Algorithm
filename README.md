@@ -16,9 +16,9 @@ https://gitter.im/Addy-Smart-Addresses
 https://github.com/Addy-Smart-Addresses/Addy/wiki/Contribution-Guidelines
 
 ## Getting Started with Contributing:
-1. After forking the project, git clone this repository onto your local environment:
+1. After forking the project, git clone the repository onto your local environment:
 ```bash
-git clone https://github.com/Addy-Smart-Addresses/Addy-Algorithm.git
+git clone https://github.com/YOUR-USERNAME/Addy-Algorithm.git
 ```
 2. Create a separate Git branch
 ```bash
