@@ -1,4 +1,4 @@
-# <img src="https://github.com/Addy-Smart-Addresses/Addy/blob/master/img/logo.png" alt="Addy" height="42" width="42"></img>   Addy-Algorithm
+# <img src="https://github.com/addy-org/Addy/blob/master/img/logo.png" alt="Addy" height="42" width="42"></img>   Addy-Algorithm
 
 The Main Algorithm of Addy which convert Latitude &amp; Longitude into Addy Code
 
@@ -13,7 +13,7 @@ Addy generates a unique 7-digit code based on the latitudinal and longitudinal c
 https://gitter.im/Addy-Smart-Addresses
 
 ## Contribution Guidelines
-https://github.com/Addy-Smart-Addresses/Addy/wiki/Contribution-Guidelines
+https://github.com/addy-org/Addy/wiki/Contribution-Guidelines
 
 ## Getting Started with Contributing:
 1. After forking the project, git clone the repository onto your local environment:
