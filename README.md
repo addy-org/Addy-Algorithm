@@ -10,7 +10,7 @@ Addy generates a unique 7-digit code based on the latitudinal and longitudinal c
 </ul>
 
 ## Gitter channel link
-https://gitter.im/Addy-Smart-Addresses
+https://gitter.im/addy-org
 
 ## Contribution Guidelines
 https://github.com/addy-org/Addy/wiki/Contribution-Guidelines
